@@ -9,4 +9,7 @@
 
 - [schede_madri](schede_madri.md)
 
+
+## [periferiche](periferiche)
+
 Elettronica Padovana
