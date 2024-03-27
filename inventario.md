@@ -3,7 +3,7 @@
 
 # Inventario
 
-## Componenti
+## [componenti](componenti)
 
 - [processori](processori.md)
 
